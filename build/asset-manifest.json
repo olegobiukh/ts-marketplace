@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ts-marketplace/build/static/css/main.c3f1b29e.chunk.css",
+    "main.js": "/ts-marketplace/build/static/js/main.bea4270d.chunk.js",
+    "main.js.map": "/ts-marketplace/build/static/js/main.bea4270d.chunk.js.map",
+    "runtime-main.js": "/ts-marketplace/build/static/js/runtime-main.954dbd8a.js",
+    "runtime-main.js.map": "/ts-marketplace/build/static/js/runtime-main.954dbd8a.js.map",
+    "static/js/2.851d477d.chunk.js": "/ts-marketplace/build/static/js/2.851d477d.chunk.js",
+    "static/js/2.851d477d.chunk.js.map": "/ts-marketplace/build/static/js/2.851d477d.chunk.js.map",
+    "index.html": "/ts-marketplace/build/index.html",
+    "precache-manifest.35c853bd7cce5c205dac01922be2722c.js": "/ts-marketplace/build/precache-manifest.35c853bd7cce5c205dac01922be2722c.js",
+    "service-worker.js": "/ts-marketplace/build/service-worker.js",
+    "static/css/main.c3f1b29e.chunk.css.map": "/ts-marketplace/build/static/css/main.c3f1b29e.chunk.css.map",
+    "static/js/2.851d477d.chunk.js.LICENSE.txt": "/ts-marketplace/build/static/js/2.851d477d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954dbd8a.js",
+    "static/js/2.851d477d.chunk.js",
+    "static/css/main.c3f1b29e.chunk.css",
+    "static/js/main.bea4270d.chunk.js"
+  ]
+}
