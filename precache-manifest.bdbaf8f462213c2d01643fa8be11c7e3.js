@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b274ba0ae290c6c4f0586639c8f4ffab",
+    "revision": "0038e90427d4d77726df37f7a6169ef7",
     "url": "/ts-marketplace/index.html"
   },
   {
-    "revision": "a1ac5c1b7a5c273aba93",
-    "url": "/ts-marketplace/static/css/main.1d4fe613.chunk.css"
+    "revision": "1126eafb04c243473ca8",
+    "url": "/ts-marketplace/static/css/main.0b59c50b.chunk.css"
   },
   {
     "revision": "da279270ba1275928d7c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ts-marketplace/static/js/2.4e224a2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1ac5c1b7a5c273aba93",
-    "url": "/ts-marketplace/static/js/main.ba039409.chunk.js"
+    "revision": "1126eafb04c243473ca8",
+    "url": "/ts-marketplace/static/js/main.1e54677f.chunk.js"
   },
   {
     "revision": "c0b422a844799fb753af",
