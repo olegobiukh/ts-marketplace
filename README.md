@@ -1,3 +1,3 @@
 # ts-marketplace
 
-[Demo](http://localhost:3000/ts-marketplace)
+[Demo](https://olegobiukh.github.io/ts-marketplace/){:target="_blank"}
