@@ -1,0 +1,17 @@
+.top {
+  display: grid;
+  grid-row: auto;
+  grid-template-columns: repeat(3, auto);
+  justify-content: space-between;
+  align-items: center;
+  &__right {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 10px;
+  }
+  &__icon {
+    &:nth-last-of-type(3) {
+      font-size: 18px;
+    }
+  }
+}

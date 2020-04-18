@@ -1,0 +1,18 @@
+.search {
+  width: 550px;
+  border: 1px solid #e6e6e6;
+  display: grid;
+  grid-template-columns: 55% 35% 5%;
+  align-items: center;
+  grid-gap: 10px;
+  height: 35px;
+  padding-left: 15px;
+  border-radius: 50px;
+  &__input {
+    border: none;
+    outline: none;
+  }
+  &__icon {
+    cursor: pointer;
+  }
+}

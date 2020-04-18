@@ -1,0 +1,24 @@
+$dark: #1a1b21;
+
+.custom-button {
+  font-family: "Open Sans";
+  line-height: 45px;
+  color: $dark;
+  font-weight: bold;
+  border-radius: 30px;    
+  letter-spacing: 2px;
+  font-size: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 0 35px;
+  &--default {
+    background-color: transparent;
+    border: 1px solid $dark;
+  }
+  &--volumed {
+    background-color: #ffd928;
+    transform-origin: 50% 50% 0px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0);
+  }
+}
