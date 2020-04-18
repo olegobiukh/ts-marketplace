@@ -63,32 +63,43 @@ function HomeSlider() {
 
   return (
     <div className={`home-slider`}>
-      {currentSlider && (
-        <>
-          <div className={`home-slider__left`}>
-            <p className={`home-slider__text`}>
-              {currentSlider && currentSlider.text}
-            </p>
-            <h1 className={`home-slider__title`}>
-              {currentSlider && currentSlider.title}
-            </h1>
-            <p className={`home-slider__pricing`}>
-              <span className={`home-slider__sale`}>${currentSlider.sale ? currentSlider.sale : currentSlider.price}</span>
-              {currentSlider.sale && (
-                <span className={`home-slider__price`}>
-                  <s>${currentSlider.price}</s>
+      <div className={`home-slider__container`}>
+        {currentSlider && (
+          <>
+            <div className={`home-slider__left`}>
+              <p className={`home-slider__text`}>
+                {currentSlider && currentSlider.text}
+              </p>
+              <h1 className={`home-slider__title`}>
+                {currentSlider && currentSlider.title}
+              </h1>
+              <p className={`home-slider__pricing`}>
+                <span className={`home-slider__sale`}>
+                  $
+                  {currentSlider.sale
+                    ? currentSlider.sale
+                    : currentSlider.price}
                 </span>
-              )}
-            </p>
-            <div className={`home-slider__toolbar`}>
-              <CustomButton text='shop now' type='volumed' />
-              <CustomButton text='view all' type='default' />
+                {currentSlider.sale && (
+                  <span className={`home-slider__price`}>
+                    <s>${currentSlider.price}</s>
+                  </span>
+                )}
+              </p>
+              <div className={`home-slider__toolbar`}>
+                <CustomButton text="shop now" type="volumed" />
+                <CustomButton text="view all" type="default" />
+              </div>
             </div>
-          </div>
-          <img src={currentSlider.image} alt={currentSlider.text} className={`home-slider__image`} />
-        </>
-      )}
-      <ul className={`home-slider__points`}>{points}</ul>
+            <img
+              src={currentSlider.image}
+              alt={currentSlider.text}
+              className={`home-slider__image`}
+            />
+          </>
+        )}
+        <ul className={`home-slider__points`}>{points}</ul>
+      </div>
     </div>
   );
 }
