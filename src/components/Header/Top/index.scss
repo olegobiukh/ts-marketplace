@@ -1,7 +1,13 @@
+@import "../../../assets/styles/mixins";
+
 .top {
+  
+  // @include media(1000px) {
+  //   display: none;
+  // }
   display: grid;
   grid-row: auto;
-  grid-template-columns: repeat(3, auto);
+  grid-auto-flow: column;
   justify-content: space-between;
   align-items: center;
   &__right {

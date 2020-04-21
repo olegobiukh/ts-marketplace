@@ -1,4 +1,9 @@
+@import "../../../../assets/styles/mixins";
+
 .search {
+  @include media(1000px) {
+    display: none;
+  }
   width: 550px;
   border: 1px solid #e6e6e6;
   display: grid;
