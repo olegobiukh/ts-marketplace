@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ts-marketplace/static/css/main.792f6b87.chunk.css",
+    "main.css": "/ts-marketplace/static/css/main.7a9bb978.chunk.css",
     "main.js": "/ts-marketplace/static/js/main.f93f95e1.chunk.js",
     "main.js.map": "/ts-marketplace/static/js/main.f93f95e1.chunk.js.map",
     "runtime-main.js": "/ts-marketplace/static/js/runtime-main.33fa5bd7.js",
@@ -8,16 +8,16 @@
     "static/js/2.c36acb39.chunk.js": "/ts-marketplace/static/js/2.c36acb39.chunk.js",
     "static/js/2.c36acb39.chunk.js.map": "/ts-marketplace/static/js/2.c36acb39.chunk.js.map",
     "index.html": "/ts-marketplace/index.html",
-    "precache-manifest.4503fb89534aa9800e90efefd9900873.js": "/ts-marketplace/precache-manifest.4503fb89534aa9800e90efefd9900873.js",
+    "precache-manifest.3d0521dd87519d2f63dd4e3e8eb9945a.js": "/ts-marketplace/precache-manifest.3d0521dd87519d2f63dd4e3e8eb9945a.js",
     "service-worker.js": "/ts-marketplace/service-worker.js",
-    "static/css/main.792f6b87.chunk.css.map": "/ts-marketplace/static/css/main.792f6b87.chunk.css.map",
+    "static/css/main.7a9bb978.chunk.css.map": "/ts-marketplace/static/css/main.7a9bb978.chunk.css.map",
     "static/js/2.c36acb39.chunk.js.LICENSE.txt": "/ts-marketplace/static/js/2.c36acb39.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ts-marketplace/static/media/logo.d54bca19.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33fa5bd7.js",
     "static/js/2.c36acb39.chunk.js",
-    "static/css/main.792f6b87.chunk.css",
+    "static/css/main.7a9bb978.chunk.css",
     "static/js/main.f93f95e1.chunk.js"
   ]
 }
