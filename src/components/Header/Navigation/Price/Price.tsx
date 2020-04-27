@@ -1,8 +1,7 @@
 import "./index.scss";
 
-import { AiOutlineShopping } from "react-icons/ai";
-
 import React, { useState } from "react";
+import { AiOutlineShopping } from "react-icons/ai";
 
 function Price() {
   const amount = 0;

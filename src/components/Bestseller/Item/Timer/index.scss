@@ -1,0 +1,31 @@
+$dark: #1a1b21;
+
+.timer {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  display: grid;
+  grid-gap: 18px;
+  &__item {
+    position: relative;
+    display: grid;
+    justify-items: center;
+    &:not(:last-of-type)::after {
+      content: "";
+      position: absolute;
+      bottom: -10px;
+      background: #eaeaeb;
+      width: 15px;
+      height: 1px;
+      transform: rotate(-60deg);
+      display: block;
+    }
+  }
+  &__number {
+    font-size: 15px;
+  }
+  &__text {
+    font-size: 7px;
+    color: #6f6f6f;
+  }
+}

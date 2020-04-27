@@ -1,0 +1,30 @@
+.filter-categories {
+  padding: 0;
+  &__item {
+    display: grid;
+    justify-content: space-between;
+    grid-auto-flow: column;
+    align-items: center;
+    line-height: 30px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    text-transform: capitalize;
+    &--sub {
+      padding-left: 20px;
+    }
+  }
+  &__plus {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  &__left {
+    display: grid;
+    justify-content: start;
+    grid-auto-flow: column;
+  }
+  &__title {
+    margin-left: 20px;
+    font-size: 14px;
+    color: rgba(42,44,50,1);
+    cursor: pointer;
+  }
+}
