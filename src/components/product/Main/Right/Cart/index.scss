@@ -1,0 +1,48 @@
+@import "../../../../../assets/styles/mixins.scss";
+
+.product-main__cart {
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  background-color: #f2f5f7;
+  padding: 15px;
+  &-border {
+    border-radius: 50px;
+    line-height: 40px;
+  }
+  &-price {
+    @include media(500px) {
+      font-size: 21px;
+    }
+    font-size: 30px;
+    font-weight: 500;
+  }
+  &-input {
+    @include media(500px) {
+      height: 30px;
+      width: 56px;
+    }
+    @extend .product-main__cart-border;
+    border: none;
+    height: 40px;
+    width: 120px;
+    padding: 10px 15px;
+  }
+  &-button {
+    @include media(500px) {
+      line-height: 30px;
+      font-size: 12px;
+      padding: 0 10px;
+    }
+    @extend .product-main__cart-border;
+    margin-left: 20px;
+    border: 2px;
+    line-height: 40px;
+    background-color: rgba(255, 196, 0, 1);
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 20px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+}

@@ -4,11 +4,11 @@ import CategoryBanner from "../../components/CategoryBanner";
 import CategoryFilter from "../../components/CategoryFilter";
 import CategoryContainer from "../../components/CategoryContainer";
 
-function Category() {
+function Catalog() {
   return (
-    <div className={`category`}>
+    <div className={`catalog`}>
       <CategoryFilter />
-      <div className="category__right">
+      <div className="catalog__right">
         <CategoryBanner />
         <CategoryContainer />
       </div>
@@ -16,4 +16,4 @@ function Category() {
   );
 }
 
-export default Category;
+export default Catalog;

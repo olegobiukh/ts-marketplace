@@ -1,0 +1,34 @@
+.product-main__top {
+  &-title {
+  }
+  &-box {
+  }
+  &-text:nth-of-type(2) {
+    position: relative;
+    margin-left: 15px;
+    &::after {
+      position: absolute;
+      left: -10px;
+      top: 0;
+      background-color: #f7f7f7;
+      content: "";
+      width: 2px;
+      height: 100%;
+      display: block;
+    }
+  }
+  &-list {
+    padding-left: 17px;
+  }
+  &-item {
+    &::before {
+      content: "\2022";
+      color: #ffc400;
+      font-weight: bold;
+      display: inline-block; 
+      width: 1em;
+      transform: scale(1.5);
+      margin-left: -1em;
+    }
+  }
+}

@@ -1,4 +1,7 @@
 .categoryFilterItem {
+  &:not(:first-of-type) {
+    margin-top: 20px;
+  }
   &__title {
     font-size: 13px;
     margin-bottom: 10px;

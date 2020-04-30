@@ -1,3 +1,8 @@
+@import "../../assets/styles/mixins";
+
 .category-filter {
+  @include media(1000px) {
+    display: none;
+  }
   padding: 10px;
 }

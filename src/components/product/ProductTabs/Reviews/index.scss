@@ -1,0 +1,19 @@
+@import "../../../../assets/styles/mixins.scss";
+
+.reviews {
+  margin-top: 20px;
+  &__container {
+    @include media(500px) {
+      grid-template-columns: 100%;
+      grid-gap: 10px;
+    }
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 15px;
+  }
+  &__item {
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+}

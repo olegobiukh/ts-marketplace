@@ -7,8 +7,10 @@ import Navigation from "./Navigation";
 function Header() {
   return (
     <header className={`header`}>
-      <Top />
-      <Navigation />
+      <div className={`header__wrapper`}>
+        <Top />
+        <Navigation />
+      </div>
     </header>
   );
 }

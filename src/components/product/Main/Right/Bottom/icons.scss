@@ -1,0 +1,13 @@
+@import "../../../../../assets/styles/mixins.scss";
+$c-main: rgba(255, 196, 0, 1);
+
+.icons {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 15px;
+  font-size: 25px;
+  margin: 0;
+  &__link {
+    color: $c-main;
+  }
+}

@@ -1,0 +1,16 @@
+@import "../../assets/styles/mixins";
+
+.product {
+  // @include media(1000px) {
+  //   grid-template-columns: 100%;
+  //   justify-content: start;
+  // }
+  // @include media(700px) {
+  //   width: 90%;
+  //   margin: auto;
+  // }
+  max-width: 1017px;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}

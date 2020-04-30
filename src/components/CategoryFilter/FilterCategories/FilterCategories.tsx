@@ -158,7 +158,7 @@ function FilterCategories() {
     return items.map((item) => (
       <>
         <li key={uid()} className={`filter-categories__item`}>
-          <div key={uid()} className={`filter-categories__item`}>
+          <div key={uid()} className={`filter-categories__left`}>
             {item.icon}
             <span className={`filter-categories__title`}>{item.title}</span>
           </div>

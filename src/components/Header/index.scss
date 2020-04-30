@@ -1,6 +1,9 @@
 .header {
+  width: 100%;
   background-color: #fff;
-  max-width: 1017px;
-  width: 90%;
-  margin: auto;
+  &__wrapper {
+    max-width: 1017px;
+    width: 90%;
+    margin: auto;
+  }
 }

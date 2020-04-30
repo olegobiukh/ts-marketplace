@@ -1,0 +1,10 @@
+@import "../../../assets/styles/mixins.scss";
+
+.product-main {
+  @include media(786px) {
+    grid-template-columns: 100%;
+    grid-gap: 40px;
+  }
+  display: grid;
+  grid-template-columns: 40% 50%;
+}

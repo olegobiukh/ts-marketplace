@@ -1,16 +1,19 @@
 import React from "react";
-import "./App.css";
 import Home from "./containers/Home";
-import Category from "./containers/Category";
+import Catalog from "./containers/Catalog";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Product from "./containers/Product";
+import Wishlist from "./containers/Wishlist";
 
 function App() {
   return (
     <div>
       <Header />
       {/* <Home /> */}
-      <Category />
+      {/* <Catalog /> */}
+      {/* <Product /> */}
+      <Wishlist />
       <Footer />
     </div>
   );

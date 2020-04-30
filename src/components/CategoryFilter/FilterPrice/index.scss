@@ -1,0 +1,30 @@
+.filter-price {
+  padding: 0;
+  &__item {
+    display: grid;
+    justify-content: space-between;
+    grid-auto-flow: column;
+    align-items: center;
+    line-height: 30px;
+    text-transform: capitalize;
+
+    &:hover .filter-color__title-first {
+      text-decoration: underline;
+    }
+  }
+  &__bottom {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__range {
+    margin-left: 10px;
+    color: #333;
+    font-weight: 500;
+  }
+  &__slider {
+    display: "inline-block";
+    width: 100%;
+  }
+}
