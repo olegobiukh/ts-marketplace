@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ts-marketplace/static/css/main.a396e9f2.chunk.css",
-    "main.js": "/ts-marketplace/static/js/main.db073d1d.chunk.js",
-    "main.js.map": "/ts-marketplace/static/js/main.db073d1d.chunk.js.map",
+    "main.css": "/ts-marketplace/static/css/main.2970a0f1.chunk.css",
+    "main.js": "/ts-marketplace/static/js/main.6a61ee1a.chunk.js",
+    "main.js.map": "/ts-marketplace/static/js/main.6a61ee1a.chunk.js.map",
     "runtime-main.js": "/ts-marketplace/static/js/runtime-main.33fa5bd7.js",
     "runtime-main.js.map": "/ts-marketplace/static/js/runtime-main.33fa5bd7.js.map",
     "static/css/2.450e5d14.chunk.css": "/ts-marketplace/static/css/2.450e5d14.chunk.css",
-    "static/js/2.d373947b.chunk.js": "/ts-marketplace/static/js/2.d373947b.chunk.js",
-    "static/js/2.d373947b.chunk.js.map": "/ts-marketplace/static/js/2.d373947b.chunk.js.map",
+    "static/js/2.2b0b8a63.chunk.js": "/ts-marketplace/static/js/2.2b0b8a63.chunk.js",
+    "static/js/2.2b0b8a63.chunk.js.map": "/ts-marketplace/static/js/2.2b0b8a63.chunk.js.map",
     "index.html": "/ts-marketplace/index.html",
-    "precache-manifest.7fea9940e7ed3b022bffcce2df1c6a9b.js": "/ts-marketplace/precache-manifest.7fea9940e7ed3b022bffcce2df1c6a9b.js",
+    "precache-manifest.b0307c407a4b43197b8836917e9949c4.js": "/ts-marketplace/precache-manifest.b0307c407a4b43197b8836917e9949c4.js",
     "service-worker.js": "/ts-marketplace/service-worker.js",
     "static/css/2.450e5d14.chunk.css.map": "/ts-marketplace/static/css/2.450e5d14.chunk.css.map",
-    "static/css/main.a396e9f2.chunk.css.map": "/ts-marketplace/static/css/main.a396e9f2.chunk.css.map",
-    "static/js/2.d373947b.chunk.js.LICENSE.txt": "/ts-marketplace/static/js/2.d373947b.chunk.js.LICENSE.txt",
+    "static/css/main.2970a0f1.chunk.css.map": "/ts-marketplace/static/css/main.2970a0f1.chunk.css.map",
+    "static/js/2.2b0b8a63.chunk.js.LICENSE.txt": "/ts-marketplace/static/js/2.2b0b8a63.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ts-marketplace/static/media/logo.d54bca19.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33fa5bd7.js",
     "static/css/2.450e5d14.chunk.css",
-    "static/js/2.d373947b.chunk.js",
-    "static/css/main.a396e9f2.chunk.css",
-    "static/js/main.db073d1d.chunk.js"
+    "static/js/2.2b0b8a63.chunk.js",
+    "static/css/main.2970a0f1.chunk.css",
+    "static/js/main.6a61ee1a.chunk.js"
   ]
 }
