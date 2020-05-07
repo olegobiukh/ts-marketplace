@@ -1,0 +1,36 @@
+[
+  {
+    "title": "computers",
+    "mainLink": "computers",
+    "additionalTitle": "laptops",
+    "routes": ["laptops"],
+    "description": "portable wireless speakers",
+    "slideImage": "https://www.macplus.ru/netcat_files/34/61/remont_macbook_slow.png",
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-4-1199x499-600x250.jpg",
+    "id": 0,
+    "order": 1
+  },
+  {
+    "title": "mobiles & tables",
+    "mainLink": "mobiles-and-tablets",
+    "additionalTitle": "mobiles",
+    "routes": ["phones"],
+    "description": "the power of imaging",
+    "slideImage": "https://stylus.ua/thumbs/568x568/76/2c/1217702.png",
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-9-1199x499-600x250.jpg",
+    "icon": "",
+    "id": 1,
+    "order": 2
+  },
+  {
+    "title": "gadgets",
+    "mainLink": "gadgets",
+    "description": "seeing is believing",
+    "routes": ["headphones", "watches"],
+    "slideImage": "https://i2.rozetka.ua/goods/16738689/acme_4770070881095_images_16738689045.png",
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/6/2019/03/banners-500x250-11-1199x499-600x250.jpg",
+    "icon": "",
+    "id": 2,
+    "order": 3
+  }
+]

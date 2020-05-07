@@ -1,0 +1,1209 @@
+[
+  {
+    "id": 0,
+    "category": "phones",
+    "title": "iPhone 11 Pro Max",
+    "price": 1200,
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/G/01/appcore/phone/AMZ_FamiyStripe_iPhone_11ProMax.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3eLH97sqX_D2d84tPZxGbou27LnGluaNyEWIbGlzJBVhUdo9x0XrhmhJP2Ps&usqp=CAc"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "6.5-inch Super Retina XDR display",
+      "camera": "Triple 12MP Ultra Wide",
+      "Front Camera": "12MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A13 Bionic chip",
+      "Water and Dust Resistant": "Rated IP68 under IEC standart",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 1,
+    "category": "phones",
+    "title": "iPhone 11 Pro",
+    "price": 1200,
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81HSzsIkJdL._AC_SX466_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81HOMI7WBsL._AC_SX342_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81HOMI7WBsL._AC_SX342_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "5.8-inch Super Retina XDR display",
+      "camera": "Triple 12MP Ultra Wide",
+      "Front Camera": "12MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A13 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 2,
+    "category": "phones",
+    "title": "iPhone 11",
+    "price": 1100,
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71kZfQA-Y7L._AC_SX466_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71PPFlDKQQL._AC_SX342_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71%2BlqnNuA9L._AC_SX342_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "6.1-inch Super Retina XDR display",
+      "camera": "Triple 12MP Ultra Wide",
+      "Front Camera": "7MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A13 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 3,
+    "category": "phones",
+    "description": [
+      "4.7-inch Retina HD display",
+      "Water and dust resistant (1 meter for up to 30 minutes, IP67)"
+    ],
+
+    "title": "iPhone SE",
+    "price": 900,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/8127fxEeCtL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61CnVxB34rL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "4.7-inch Super Retina XDR display",
+      "camera": "Triple 12MP Ultra Wide",
+      "Front Camera": "7MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A13 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 4,
+    "category": "phones",
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "title": "iPhone XS Max",
+    "price": 900,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._AC_SY500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71sITK2GB1L._AC_SY500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/41bes0mOCCL._AC_SY445_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "5.8-inch Super Retina XDR display",
+      "camera": "Triple 12MP Ultra Wide",
+      "Front Camera": "7MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A12 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 5,
+    "category": "phones",
+    "title": "iPhone X",
+    "price": 900,
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/618ZI2Xyw%2BL._AC_SY500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51R4ZvEJUPL._AC_SY445_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/41-ZpO0-RwL._AC_SY445_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "5.8-inch Super Retina XDR display",
+      "camera": "Dual 12MP Ultra Wide",
+      "Front Camera": "Dual 7MP TrueDepth camera",
+      "Face/Touch ID": "Face ID",
+      "chip": "A11 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB"
+    }
+  },
+  {
+    "id": 6,
+    "category": "phones",
+    "title": "iPhone 8",
+    "price": 500,
+    "description": [
+      "Carrier - This phone is locked to simple phones from Tracfone, which means this Device can only be used on the Simple phones wireless network.",
+      "6. 5-inch Super Retina XDR OLED display"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51LXiIAOkfL._AC_SY445_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/516RmdgAcCL._AC_SY445_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "4.7-inch Super Retina XDR display",
+      "camera": "12MP",
+      "Front Camera": "7MP TrueDepth camera",
+      "Face/Touch ID": "Touch ID",
+      "chip": "A11 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB, 512GB"
+    }
+  },
+  {
+    "id": 7,
+    "category": "phones",
+    "title": "iPhone 7 Plus",
+    "description": [
+      "iPhone 7 Plus features 12MP dual cameras with 4K video, optical image stabilization, and Portrait mode. A 5.5-inch Retina HD display with wide color gamut and 3D Touch. A10 Fusion chip for high performance. Great battery life. Water and dust resistance. And with iOS 12—the most advanced mobile operating system—you’ll have powerful new tools that make iPhone more personal than ever."
+    ],
+    "price": 500,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/418fDVeBfKL._AC_SY550_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61l0Et95kQL._AC_SY741_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "6.2-inch Super Retina XDR display",
+      "camera": "7MP",
+      "Face/Touch ID": "Touch ID",
+      "chip": "A11 Bionic chip",
+      "Wireless Charging": "yes",
+      "Capacity": "64GB, 256GB"
+    }
+  },
+  {
+    "id": 8,
+    "category": "phones",
+    "title": "iPhone 7",
+    "price": 380,
+    "description": [
+      "Locked to the GSM network and only compatible with GSM carriers like AT&T, T-phones and Metro. Will not work with Sprint, Verizon, US Cellular or Cricket."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61%2BfbdrjtCL._AC_SY500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/41D9NDiSzjL._AC_SY445_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/41VAtRxMJcL._AC_SY445_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "4.7-inch Super Retina XDR display",
+      "camera": "12MP camera",
+      "Face/Touch ID": "Touch ID",
+      "chip": "A10 Fusion chip",
+      "Wireless Charging": "yes",
+      "Capacity": "32GB, 128GB"
+    }
+  },
+  {
+    "id": 9,
+    "category": "phones",
+    "title": "iPhone 6s Plus",
+    "price": 300,
+    "description": [
+      "Locked to the GSM network and only compatible with GSM carriers like AT&T, T-phones and Metro. Will not work with Sprint, Verizon, US Cellular or Cricket."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51FhZerU9QL._AC_SY445_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71P1KauZmAL._AC_SY679_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "5.5-inch Super Retina XDR display",
+      "camera": "12MP camera",
+      "Face/Touch ID": "Touch ID",
+      "chip": "A9 chip",
+      "Capacity": "16GB, 64GB"
+    }
+  },
+  {
+    "id": 10,
+    "category": "phones",
+    "title": "iPhone 6s",
+    "price": 280,
+    "description": [
+      "Locked to the GSM network and only compatible with GSM carriers like AT&T, T-phones and Metro. Will not work with Sprint, Verizon, US Cellular or Cricket."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61ty1FGnI4L._AC_SY500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51LO8fnVHeL._AC_SY445_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "4.7-inch Super Retina XDR display",
+      "camera": "12MP camera",
+      "Face/Touch ID": "Touch ID",
+      "chip": "A9 chip",
+      "Capacity": "32GB, 128GB"
+    }
+  },
+
+  {
+    "id": 11,
+    "category": "phones",
+    "title": "Huawei P30 Pro",
+    "price": 164,
+    "description": [
+      "3G HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - 4G LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 6(900), 7(2600), 8(900), 9(1800), 12(700), 17(700), 18(800), 19(800), 20(800), 26(850), 28(700), 32(1500), 34(2000), 38(2600), 39(1900), 40(2300) - Hybrid Dual SIM (Nano-SIM, dual stand-by) > (ensure to check compatibility with your carrier before purchase)"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81fQU7doPJL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71BbykZUy0L._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "UPC": "6901443288052",
+      "RAM": "8Gb",
+      "capability": "256Gb",
+      "color": "blue",
+      "screen": "6.5 in",
+      "OS": "Android",
+      "SIM Card Slot": "Dual SIM"
+    }
+  },
+  {
+    "id": 12,
+    "category": "phones",
+    "title": "Huawei P30 Lite",
+    "price": 219,
+    "description": [
+      "3G HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - 4G LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 6(900), 7(2600), 8(900), 9(1800), 12(700), 17(700), 18(800), 19(800), 20(800), 26(850), 28(700), 32(1500), 34(2000), 38(2600), 39(1900), 40(2300) - Hybrid Dual SIM (Nano-SIM, dual stand-by) > (ensure to check compatibility with your carrier before purchase)"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/616%2BkGLMqJL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51k2rVrFTzL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "Technology": "GSM / HSPA / LTE",
+      "Dimensions": "152.9 x 72.7 x 7.4 mm ",
+      "weight": "159 g ",
+      "display": "6.15 inches",
+      "cameras": "48/8/2MP"
+    }
+  },
+  {
+    "id": 13,
+    "category": "phones",
+    "title": "Huawei P40",
+    "price": 790,
+    "description": [
+      "Pre Sale 4/9 Ship Date Explore the World, Create Your Stories Explore the World, Create Your Stories Never stop exploring life and creating stories. Working as a highly unified system, the Ultra Vision Leica Triple Camera always backs you up to shoot any day or night, whether the subject is up close or at a distance. Effortlessly capture what you see and let it speak for what you feel."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61JqdNy0cqL._AC_SL1200_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51TP7FgC%2ByL._AC_SL1100_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "Product Dimensions": "5.9 x 2.8 x 0.3 inches",
+      "Item Weight": "6.4 ounces",
+      "Batteries": "1 Lithium Polymer ",
+      "Capacity ": "3800mAh"
+    }
+  },
+  {
+    "id": 14,
+    "category": "phones",
+    "title": "Huawei Y9 Prime",
+    "price": 250,
+    "description": [
+      "The HUAWEI Y9 Prime 2019 features a unique dividing line that makes this design standout from the rest. On the smooth back, the special silk texture shimmers under the light and you can see the fine details clearly."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/517eAVjANqL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/5167-7MjkcL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "Package Dimensions": "7.3 x 3.8 x 2.4 inches",
+      "Item Weight": "15.2 ounces",
+      "Shipping Weight": "15.2 ounces",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 15,
+    "category": "phones",
+    "title": "Huawei Nova 5T",
+    "price": 344,
+    "description": [
+      "HUAWEI nova 5T’s dazzling colours, amazing textures and reflective design create an immersive feeling of boundless space. The refined finish and unique texture accentuate the contrast of light and shadow for a surreal and fantastical multi-layered 3D effect on a flat surface."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/617YocpWTdL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61SnLBKlA0L._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "color": "blue",
+      "Package Dimensions": "7 x 3.8 x 2.4 inches",
+      "Item Weight": "1 pounds",
+      "Shipping Weight": "1.06 pounds",
+      "OS": "Android",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 16,
+    "category": "phones",
+    "title": "Huawei P Smart",
+    "price": 115,
+    "description": [
+      "3G HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 4G LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 28(700)",
+      "5.65-inch with Fullview Full HD IPS LCD capacitive touchscreen, HiSilicon Kirin 659, Octa-core, Main Camera's: DUAL 13MP+2MP, f/2.0, autofocus, LED flash; Front Camera: 8 MP"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51K4gdWtNoL._AC_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/619FpNXGSCL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "Package Dimensions": "6.3 x 3.4 x 2.2 inches",
+      "Item Weight": "10.4 ounces",
+      "Shipping Weight": "10.4 ounces",
+      "OS": "Android",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 17,
+    "category": "phones",
+    "title": "Huawei P20 Lite",
+    "price": 200,
+    "description": [
+      "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all regions: GSM 850/900/1800/1900, UMTS 850/900/2100, LTE Cat6 700/900/1800/2100/2600 (Bands 1,3,7,8,28). TD-LTE 2300/2600 (Bands 38,40)."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81G9l3cn-uL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/8188KkDM58L._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "Product Dimensions": "2.8 x 0.3 x 5.8 inches",
+      "Item Weight": "5.1 ounces",
+      "memory": "64GB",
+      "OS": "Android",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 18,
+    "category": "phones",
+    "title": "Huawei Y7",
+    "price": 214,
+    "description": [
+      "XPAND YOUR VISION, EXPLORE THE FUTURE Wide Dewdrop Display A wide 6.26 Dewdrop display provides a clear and broader view for a better phones experience. The 1520 x 720 HD+ IPS screen reveals greater saturation, more clarity and natural colours from any viewing angle. Now you have a colourful world in your hand. Classic Design The elegant and simple design of HUAWEI Y7 2019 reveals its beauty to the world."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61El799HPBL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51bsTW4m4QL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "memory": "32GB",
+      "Camera": "13MP+2MP",
+      "color": "Midnight Black",
+      "OS": "Android",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 19,
+    "category": "phones",
+    "description": [
+      "International Variant/US Compatible LTE",
+      "Memory: 32GB 3GB RAM - microSD, up to 512GB - Dual-SIM",
+      "Main Camera: Triple - 13 MP, f/1.8, 27mm (wide), PDAF + 8 MP, f/2.2, 13mm (ultrawide) + 5 MP, f/2.2, depth sensor w/ LED flash, panorama, HDR : Selfie Camera: 8 MP, f/2.0"
+    ],
+    "title": "Samsung Galaxy A20s",
+    "price": 151,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/31DVClA7BaL._AC_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/31BzNmjCkZL._AC_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Memory": "32GB 3GB",
+      "Product Dimensions": "3 x 0.3 x 6.4 inches",
+      "Item Weight": "10.4 ounces",
+      "Shipping Weight": "10.4 ounces",
+      "Batteries": "1 Lithium Polymer",
+      "OS": "Android 9.0 (Pie)"
+    }
+  },
+  {
+    "id": 20,
+    "category": "phones",
+    "description": [
+      "Power of 5G: Get next-level power for everything you love to do with Samsung Galaxy 5G; Share more, game harder, experience more and never miss a beat",
+      "Single Take AI: Capture video and multiple types of images with one tap of the shutter button; Lenses, effects and filters capture the best of every moment, every time"
+    ],
+    "title": "Samsung Galaxy S20+ Plus",
+    "price": 500,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71EbQD7t-KL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/615pfwoE4EL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Product Dimensions": "7.1 x 3.6 x 2.4 inches",
+      "Item Weight": "6.6 ounces",
+      "Shipping Weight": "1 pounds",
+      "Batteries": "1 Lithium ion",
+      "OS": "Android"
+    }
+  },
+  {
+    "id": 21,
+    "category": "phones",
+    "description": [
+      "This Samsung Galaxy Note 10 N970U 256GB Factory Unlocked Smartphone is in new-other condition. It is 100% functional and in near perfect cosmetic condition with the possibility of a few light hair marks. It does NOT come in its original packaging.",
+      "Intelligent power that keeps up with you. Galaxy Note10's power algorithm learns from how you work and live to optimize power, for hours of juice from minutes of fast-charging. With super speed processing, Wireless PowerShare, and massive storage, Galaxy Note10 keeps up with whatever you throw at it. Next-generation S Pen. S Pen is the closest thing to a magic wand for your smartphone. With remote gestures, a shutter and playlist button, handwriting-to-text conversion, video editing and scrubbing, screen-off memo and more, you can do more, faster. Like a pro studio in your pocket. With a full set of pro lenses – including ultrawide for stunning landscapes and micro-zoom for epic details – Galaxy Note10 puts a studio in your pocket. Live video bokeh, precision audio focus and super-stabilization mean you can get perfect content every time. Endless screen in an impossibly slim form. Galaxy Note10’s nearly bezel-less Infinity Display gives expansive viewing space in a slim, balanced form – with a cinematic AMOLED+ screen to elevate whatever you’re watching."
+    ],
+    "title": "Samsung Galaxy Note 10+",
+    "price": 900,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61jzKKCg%2BZL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/616TzhjQk-L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61Lx8f1rBDL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Product Dimensions": "7.1 x 3.6 x 2.4 inches",
+      "Shipping Weight": "1 pounds",
+      "Batteries": "1 Lithium ion",
+      "OS": "Android",
+      "Item Weight": "6.6 ounces"
+    }
+  },
+  {
+    "id": 22,
+    "category": "phones",
+    "description": [
+      "Ready, Action, Immerse: Indulge in an immersive viewing experience with the next-gen 17.03cm (6.7”) FHD+ Super AMOLED Infinity-U Display. Ready, Action, Detail: Add dramatic details to every action with Super Slow-mo Video. Ready, Action, Go: Get going with 4500mAh battery and 25W Super-fast Charging. Ready, Action, Speed: Multitask non-stop with the superfast Qualcomm Snapdragon 675 Octa-Core processor & 6GB RAM. Ready, Action, Flaunt: Unlock your phone in style with On-screen Fingerprint. Ready, Action, Play: Enjoy the best of K-pop and Korean dramas on the My Galaxy App, with an enhanced audio experience powered by Dolby Atmos technology. International Model Compatible with Most GSM Carriers like T-Mobile, AT&T, MetroPCS, etc. Will NOT work with CDMA Carriers Such as Verizon, Sprint, Boost"
+    ],
+    "title": "Samsung Galaxy A70",
+    "price": 230,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61Sv2usZt3L._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Product Dimensions": "7 x 3.3 x 2.2 inches",
+      "Item Weight": "10.4 ounces",
+      "Shipping Weight": "10.4 ounces",
+      "Batteries": "1 Lithium Polymer batteries"
+    }
+  },
+  {
+    "id": 23,
+    "category": "phones",
+    "description": [
+      "With an all day battery that lasts up to 35 hours, The Galaxy A50 keeps up with your fast pace throughout the day and into the night; When you need a boost, power back up quickly with fast charging",
+      "Featuring three specialized lenses, The Galaxy A50 is the only camera you’ll ever need; Capture more of what you see in every shot, thanks to our advanced Ultra wide 123 degrees field of vision; Shoot vibrant photos with a 25MP Main Camera or take flattering selfies with a depth lens that puts the focus squarely on you by softening the background"
+    ],
+    "title": "Samsung Galaxy A50",
+    "price": 164,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/611KGf5dm8L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/510dJgcefRL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+
+      "color": "black",
+      "screen": "6.4” FHD+ Super AMOLED",
+      "processor": "Exynos9610",
+      "Front Camera": "25MP Selfie Camera",
+      "Capacity": "64GB Storage / 4GB RAM",
+      "Battery": "4,000mAh"
+    }
+  },
+  {
+    "id": 24,
+    "category": "phones",
+    "title": "Samsung Galaxy A10e ",
+    "description": [
+      "With a long lasting battery, the Galaxy A10e gives you more time to post, talk, text and share with friends and family",
+      "Keep more with 32GB of built in memory; Expand your memory up to 512GB with a Micro SD card",
+      "Wireless voice, data and messaging services compatible with most major U.S. GSM and CDMA networks; Support for certain features and services such as VoWiFi and hotspot, vary by wireless service provider"
+    ],
+    "price": 164,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/91umUATWMiL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81FLxXXOIrL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+
+      "Color": "Charcoal Black",
+      "Screen": "5.83” HD+ TFT",
+      "Processor": "Exynos7884B",
+      "Front Camera": "5MP Selfie Camera",
+      "Capacity": "32GB Storage / 2GB RAM",
+      "Battery": "3,000mAh"
+    }
+  },
+  {
+    "id": 25,
+    "category": "phones",
+    "title": "Samsung Galaxy A51",
+    "description": [
+      "Display: 6.5 inches Super AMOLED capacitive touchscreen w/ Corning Gorilla Glass 3 - Resolution: 1080 x 2400 pixels",
+      "Main Camera (Quad): 48 MP + 12 MP + 5 MP + 5 MP w/ LED flash, panorama, HDR - Selfie Camera: 32 MP w/ HDR",
+      "Platform: OS Android - Chipset: Exynos 9611 - Processor: Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53) - Graphics: Mali-G72 MP3",
+      "Sensors: Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+      "Wi-Fi: 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot - Bluetooth: 5.0, A2DP, LE - GPS: Yes, with A-GPS, GLONASS, GALILEO, BDS"
+    ],
+    "price": 260,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61HFJwSDQ4L._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Product Dimensions": "7 x 3 x 2.5 inches",
+      "Item Weight": "6.1 ounces",
+      "Shipping Weight": "12.8 ounces",
+      "Batteries": "1 Lithium Polyme"
+    }
+  },
+  {
+    "id": 26,
+    "category": "phones",
+    "title": "Samsung Galaxy S9",
+    "description": [
+      "Introducing the Samsung Galaxy S9 - The Camera. Reimagined. Our category-defining Dual Aperture lens adapts like the human eye. It's able to automatically switch between various lighting conditions with ease—making your photos look great whether it's bright or dark, day or night. If it's dark, the lens opens to F1.5 mode to pull in light for a bright and clear photo and in the daylight, the lens shifts to F2.4 mode to help your picture come out sharp. Super Slow-mo lets you see the things you could have missed in the blink of an eye. Set the video to music or turn it into a looping GIF, and share it with a tap. Then sit back and watch the reactions roll in. Create an Augmented Reality version of yourself simply by taking a selfie. Then share your real-life feelings as emoji stickers and videos. Intelligent Scan is a new technology that combines face recognition and iris scan to make unlocking simple even in low light."
+    ],
+    "price": 164,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51Eaf0t4pGL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/710kWA3Ty9L._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Product Dimensions": "0.3 x 2.9 x 6.3 inches",
+      "Item Weight": "8 ounces",
+      "Display": "Super AMOLED Capacitive Touchscreen",
+      "OS": "Android",
+      "Memory": "64GB",
+      "Batteries": "1 Lithium io"
+    }
+  },
+  {
+    "id": 27,
+    "category": "phones",
+    "title": "Samsung Galaxy A71",
+    "price": 380,
+    "description": [
+      "Behind Galaxy A71's symmetrically aligned 6.7' Infinity-O Display, Super AMOLED Plus color technology delivers real-to-life color in everything you watch and do—from gaming and movies, to web-surfing and multi-tasking. Start enjoying more of what you love, without the screen getting in your way.",
+      "Whether the moment calls for a close-up, an ultra-wide shot, a nighttime photo, or some artistic Bokeh blur, the A71 Quad Cam delivers with pro-level quality and ease. From a 64MP Main Cam to a 123° 12MP Ultra Wide Cam, to a 5MP Macro Cam and 5MP Depth Cam, A71 is ready for any moment."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61SFBJ04YqL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61GnL42zoTL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Samsung",
+      "Package Dimensions": "6.8 x 3.2 x 2 inches",
+      "Item Weight": "13.4 ounces",
+      "Shipping Weight": "13.4 ounces "
+    }
+  },
+  {
+    "id": 28,
+    "category": "phones",
+    "description": [
+      "International Model - No Warranty in US. Compatible with Most GSM Carriers like T-phones, AT&T, MetroPCS, etc. Will NOT work with CDMA Carriers Such as Verizon, Sprint, Boost. - FCC ID: 2AFZZG7G"
+    ],
+    "title": "Xiaomi Redmi Note 8",
+    "price": 164,
+    "images": [
+      "https://m.media-amazon.com/images/I/61YjtJEsM2L._AC_UY327_FMwebp_QL65_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61YjtJEsM2L._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Xiaomi",
+      "Product Dimensions": "7 x 3 x 2.5 inches",
+      "Item Weight": "1 pounds",
+      "Shipping Weight": "1.1 pounds",
+      "Item model number": "M1908C3JG",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 29,
+    "category": "phones",
+    "description": [
+      "International Model - No Warranty in US. Compatible with Most GSM Carriers like T-phones, AT&T, MetroPCS, etc. Will NOT work with CDMA Carriers Such as Verizon, Sprint, Boost. - FCC ID: 2AFZZG7G"
+    ],
+    "title": "Xiaomi Redmi Note 8 Pro",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81UgYuadkpL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71oAh1sfG3L._AC_SL1500_.jpg"
+    ],
+    "price": 214,
+    "features": {
+      "company": "Xiaomi",
+      "Product Dimensions": "2 x 3.1 x 6.1 inches",
+      "Item Weight": "7 ounces",
+      "Shipping Weight": "1.01 pounds",
+      "Item model number": "M1906G7G",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 30,
+    "category": "phones",
+    "description": [
+      "Processor Qualcomm Snapdragon 720G High-performance octa-core processor Frequency: up to 2.3GHz Adreno 618 graphics processor Qualcomm 5th generation AI engine 8nm process technology Battery and Charging 5020mAh (typ)* Built-In Non-removable Lithium Ion Polymer Battery USB Type-C reversible connector port Supports 18W wired fast charging Includes 22.5W wire charger Display 6.67' DotDisplay Resolution: 2400 x 1080 FHD+ Contrast: 1500:1 (typ) | NTSC: 84% (typ) TÜV Rheinland low blue light certification Reading mode 2.0 Corning Gorilla Glass 5v Rear Camera 48MP AI quad camera 48MP ultra-high resolution primary camera 48MP, 1/2' sensor, FOV 79° f/1.79 aperture, 6 piece lens, AF 1.6μm 4-in-1 Super Pixel, 0.8μm pixel size 8MP ultra wide-angle camera Network & Connectivity GSM: B2/3/5/8 WCDMA: B1/2/4/5/8 TDD LTE: B38/40 FDD LTE: B1/2/3/4/5/7/8/20/28"
+    ],
+    "title": "Xiaomi Redmi Note 9S",
+    "price": 200,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81UgYuadkpL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71oAh1sfG3L._AC_SL1500_.jpg"
+    ],
+
+    "features": {
+      "company": "Xiaomi",
+      "description": [""],
+      "Product Dimensions": "2 x 3.1 x 6.1 inches",
+      "Item Weight": "7 ounces",
+      "Shipping Weight": "1.01 pounds",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 31,
+    "category": "phones",
+    "description": [
+      "Unpresentedly, Mi Note 10 features a 108MP camera, with a single photo resolution of up to 12032 x 9024, 12 times as high as 4K resolution! With a super large image sensor in size of 1/1.33, the camera in Mi Note 10 surpasses most digital cameras. By capturing more light and details, it reproduces the magnificence of the landscape. Isn't it breathtaking?",
+      "First Mi Phone that supports the new Night Mode 2.0 and features RAW-based multi-frame composition, let you take pictures without worrying about the dark."
+    ],
+    "title": "Xiaomi Mi Note 10",
+    "price": 437,
+    "images": [
+      "https://m.media-amazon.com/images/I/51gJTYAYPQL._AC_UY327_FMwebp_QL65_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/91AHzW462WL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/91ovWWNHIjL._AC_SL1500_.jpg"
+    ],
+
+    "features": {
+      "company": "Xiaomi",
+      "Product Dimensions": "6.2 x 2.9 x 2.9 inches",
+      "Item Weight": "7.4 ounces",
+      "Shipping Weight": "1.15 pounds",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 32,
+    "category": "phones",
+    "description": [
+      "6.3 'Full screen water drops: The global version of Xiaomi Redmi Note 7 features 2.5D Corning Gorilla 5 glass panels with an additional 0.8mm thickness at the front and rear. It has a 6.3 inch screen with an aspect ratio of 19.5: 9 and Full HD + resolution of 2340 x 1080 pixels.The screen supports the brightness of 450 nits, the contrast ratio of 1,500: 1",
+      "48MP + 5MP rear camera and 13M front camera: The global version of Xiaomi Redmi Note 7 has dual AI rear cameras: one of them uses that 48-megapixel image sensor and an f / 1.8 lens, the other 5-megapixel and it is used to obtain information about depth. With the help of the Samsung lens, the Redmi Note 7 can capture high-definition photos at the poster level."
+    ],
+    "title": "Xiaomi Redmi Note 7",
+    "price": 189,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/31eJ7ewJ%2BlL._AC_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/319iePXp%2BHL._AC_.jpg"
+    ],
+    "features": {
+      "company": "Xiaomi",
+      "Screen Size": "6.3 inches",
+      "Item Dimensions": "6.27 x 0.30 x 0.32 inches",
+      "Item Weight": "6.56 ounces",
+      "Operating System": "android"
+    }
+  },
+  {
+    "id": 33,
+    "category": "phones",
+    "description": [
+      "The Redmi 8A pushes the envelope further with a choice of upgraded features. The massive 5000mAh battery power work and play through the day. 18W Fast Charge support allows you to get back in action in no time. The design also takes a leap forward with the all-new Aura Wave Grip design on the back. The phone is also protected by Corning Gorilla Glass 5 to protect from drops and falls."
+    ],
+    "title": "Xiaomi Redmi 8A",
+    "price": 189,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51U74AZGyBL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51rtq%2B5-wkL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Xiaomi",
+      "Package Dimensions": "7.5 x 4.5 x 1.9 inches",
+      "Item Weight": "1.02 pounds",
+      "Shipping Weight": "1.02 pounds",
+      "Item model number": "M1908C3KG",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+  {
+    "id": 34,
+    "category": "phones",
+    "description": [
+      "Xiaomi Redmi Note 8 6.3' 64GB 4GB RAM (GSM Only, No CDMA) Internationa Version - No Warranty (Space Black)",
+      "64GB + 4GB RAM - microSD, up to 256 GB - Qualcomm SDM665 Snapdragon Octa-core - Non-removable Li-Po 4000 mAh battery"
+    ],
+    "title": "Xiaomi Redmi 8",
+    "price": 448,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51kBdbIMX%2BL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51JLPy0TmmL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Xiaomi",
+      "Product Dimensions": "3.1 x 0.4 x 6.3 inches",
+      "Item Weight": "6.4 ounces",
+      "Shipping Weight": "1.01 pounds",
+      "Batteries": "1 Lithium Polymer"
+    }
+  },
+
+  {
+    "id": 35,
+    "category": "laptops",
+    "title": "Apple 13 MacBook Air",
+    "price": 900,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51-oeeCf1zL._AC_SL1024_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/413cU6KK6QL._AC_SL1024_.jpg"
+    ],
+    "description": [
+      "Stunning 13.3-inch Retina display with True Tone technology. \nBacklit Magic Keyboard and Touch ID"
+    ],
+    "features": {
+      "company": "Apple",
+      "CPU": "I5",
+      "RAM": "8Gb",
+      "year": "2018",
+      "capability": "128Gb",
+      "Display": "13.3-inch",
+      "Product Dimensions": "14.3 x 10.5 x 2.2 inches",
+      "Batteries": "1 Lithium"
+    }
+  },
+  {
+    "id": 36,
+    "category": "laptops",
+    "title": "Apple MacBook Air",
+    "price": 950,
+    "description": [
+      "1.1GHz dual-core 10th-generation Intel Core i3 processor with Turbo Boost up to 3.2GHz or 1.1GHz quad-core 10th-generation Intel Core i5 processor with Turbo Boost up to 3.8GHz"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71k3fJh5EwL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61dJmFsIodL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "13-inch",
+      "RAM": "8GB",
+      "memory": "256GB SSD"
+    }
+  },
+  {
+    "id": 37,
+    "category": "laptops",
+    "title": "Apple MacBook Pro",
+    "price": 1800,
+    "description": [
+      "2.6GHz 6-core 9th-generation Intel Core i7 processor with Turbo Boost up to 4.5GHz or 2.3GHz 8-core 9th-generation Intel Core i9 processor with Turbo Boost up to 4.8GHz"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81DuDX2ZA8L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/715sDi1k4xL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "13-Inch",
+      "color": "space",
+      "memory": "256",
+      "Product Dimensions": "7.9 x 12 x 0.6 inches"
+    }
+  },
+  {
+    "id": 38,
+    "category": "laptops",
+    "title": "Apple MacBook Pro 16in",
+    "price": 2400,
+    "description": [
+      "Ninth-generation 6-Core Intel Core i7 Processor. \n Stunning 16-inch Retina Display with True Tone technology"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71L2iBSyyOL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81aot0jAfFL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "display": "16-In",
+      "RAM": "16GB",
+      "color": "Space Gray",
+      "memory": "512GB",
+      "CPU": "Intel Core i7"
+    }
+  },
+  {
+    "id": 39,
+    "category": "laptops",
+    "title": "ASUS VivoBook 15",
+    "price": 590,
+    "description": [
+      "15.6 inch full HD 4 way NanoEdge bezel display with stunning 88% screen-to-body ratio",
+      "Intel core i3-8145U processor (4M Cache, upto 3.9 GHz)"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81mZ4eDWYkL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61NeQaka5UL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Asus",
+      "CPU": "intel",
+      "CPU Speed": "3.9 GHz",
+      "Screen Size": "15.6 inches",
+      "Hard Disk Size": "128 GB",
+      "Operating System": "Windows 10 S",
+      "Processor Count": "2",
+      "RAM": "8 GB DDR4"
+    }
+  },
+  {
+    "id": 40,
+    "category": "laptops",
+    "title": "ASUS Chromebook Flip C302",
+    "price": 280,
+    "description": [
+      "The flexible 360 Degree hinge and 12.5 inches full HD touchscreen lets you use the C302 in tablet or laptop mode",
+      "Extremely lightweight at 2.65 pounds with the protection of a sleek aluminum metal body"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81ZLyZZzJ1L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61Gk9DCpo6L._AC_SL1200_.jpg"
+    ],
+    "features": {
+      "company": "Asus",
+      "2-In-1 Laptop": "yes",
+      "Touchscreen": "yes",
+      "RAM": "4GB",
+      "Flash Storage": "64GB",
+      "Corning Gorilla Glass": "yes"
+    }
+  },
+  {
+    "id": 41,
+    "category": "laptops",
+    "title": "Huawei MateBook X Pro Signature Edition Thin & Light Laptop",
+    "price": 1400,
+    "description": [
+      "World's First FullView Display: Immersive 13.9-inch 3K touchscreen with 91% screen-to-body ratio, only 0.57-inch thin and weighs only 2.93 lbs., perfect for at-home or on-the-go computing"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61t1X5eEaRL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/610G6Zg3YOL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "RAM": "16",
+      "CPU": "i7-8550U",
+      "Screen Size": "13.9 inches",
+      "Hard Disk Size": "512 GB",
+      "Item Dimensions": "11.97 x 0.57 x 8.54 inches",
+      "Operating System": "Windows 10 Home",
+      "Processor Count": "4",
+      "RAM Type": "DDR3 SDRAM",
+      "Graphics Card": "2 GB"
+    }
+  },
+  {
+    "id": 42,
+    "category": "laptops",
+    "title": "Huawei MateBook E Signature",
+    "price": 500,
+    "description": [
+      "The new 2-in-1 HUAWEI Mate Book E is made of high-quality aluminum with advanced CNC diamond cut finish giving it a comfortable and firm hold in your hand. At just 6.9mm thick, it's thin and lightweight - coming in at a little over a pound - so that you can take it with you wherever you go. With a 2K display touch screen and a full-size chiclet keyboard, the HUAWEI Mate Book E supports a lifestyle that quickly moves between work and entertainment. The tablet is available in titanium gray paired with blue Folio Keyboard and champagne gold paired with brown keyboard."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81frU7HTs7L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71I-VnGyQML._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Huawei",
+      "CPU": "Intel",
+      "Display": "LCD",
+      "Graphics": "Intel HD Graphics 615",
+      "Hard Disk": "M.2 SATA3 SSD, M.2 SATA3 SSD",
+      "Hard Disk Size": "128",
+      "Processor Count": "2"
+    }
+  },
+  {
+    "id": 43,
+    "category": "laptops",
+    "title": "Lenovo Ideapad 15.6",
+    "price": 450,
+    "description": [
+      "Lenovo Laptop: Organize and simplify your life with this Lenovo Ideapad laptop. The AMD A12-Series processor ensures speed and quick response time, and 1 TB of hard drive capacity provides storage for videos, photos, music and more. This Lenovo Ideapad laptop is equipped with high definition resolution for powerful screen clarity."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51SNTVfWnIL._AC_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61QCAI%2BqLWL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "Lenovo",
+      "OS": "Windows 10",
+      "UPC": "AMD A12-9720P",
+      "RAM": "8GB",
+      "color": "Platinum gray"
+    }
+  },
+  {
+    "id": 44,
+    "category": "laptops",
+    "title": "Microsoft Surface 13.5",
+    "price": 400,
+    "description": [
+      "Clean, elegant design — Thin and light, starting at just 2.79 pounds, Surface Laptop 3 is easy to carry",
+      "Improved speed and performance to do what you want, with the latest processors – Surface Laptop 3 is upto two times faster than surface Laptop 2",
+      "More ways to connect, with USB-C and USB-A ports for connecting to displays, docking stations and more, as well as accessory charging"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61%2B40z7QLAL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/519A5VjwjfL._AC_SL1000_.jpg"
+    ],
+    "features": {
+      "company": "microsoft",
+      "Touchscreen": "yes",
+      "CPU": "Intel Core m3-7Y30",
+      "memory": "128GB SSD",
+      "Bluetooth": "yes"
+    }
+  },
+  {
+    "id": 45,
+    "category": "headphones",
+    "title": "Sony MDRZX110/BLK ZX",
+    "price": 12,
+    "description": [
+      "Fitbit inspire hr. is a friendly heart rate and fitness tracker for every day that helps you build healthy habits. This encouraging companion motivates you to reach your weight and fitness goals and even enjoy the journey with 24/7 heart rate, workout features, calorie burn tracking, goal celebrations, sleep stages and up to 5 days of battery life. Large fits wrist 7.1'' 8.7'' in circumference. Small fits wrist 5.5' 7.1"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61JxBr0UreL._AC_SL1200_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61%2BAl0YynpL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Sony",
+      "Item Dimensions": "5.87 x 1.81 x 7.87 inches",
+      "Item Weight": "yes",
+      "Bands size": "4.16 ounces"
+    }
+  },
+  {
+    "id": 46,
+    "category": "headphones",
+    "title": "Apple AirPods Pro",
+    "price": 300,
+    "description": [
+      "Active noise cancellation for immersive sound",
+      "Transparency mode for hearing and connecting with the world around you"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71bhWgQK-cL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71SJDhJtEVL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "Wireless Earbuds": "yes",
+      "LED Charging Light Location": "yes",
+      "USB-C": "yes",
+      "Battery life": "4.5h",
+      "Product Dimensions": "0.9 x 0.9 x 1.2 inches"
+    }
+  },
+  {
+    "id": 47,
+    "category": "headphones",
+    "title": "JBL JBLT120TWSBLKAM Tune",
+    "price": 70,
+    "description": [
+      "No wires. No hassles. Introducing the completely cord free JBL TUNE120TWS. They are powerful in sound thanks to a 5.8mm driver featuring JBL Pure Bass sound and colorful in design. The earbuds combined with the elegantly designed portable charging case provide 16 hours of unrestrained musical enjoyment. with long lasting comfort. Equipped with intuitive and handy controls that are conveniently located on each earpiece, including one click access to Siri and Google Now."
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61pfNMuTPFL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71ccmurazmL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "JBL",
+      "Color": "Black",
+      "Item Dimensions": "3.94 x 1.73 x 6.30 inches",
+      "Batteries": "3 Lithium Polymer"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Apple watches Series 5 (GPS, 40mm) ",
+    "category": "watches",
+    "price": 500,
+    "description": [
+      "LTE and UMTS, Built-in GPS, GLONASS, Galileo, and QZSS, S5 with 64-bit dual-core processor, W3 Apple wireless chip, Barometric altimeter, Capacity 32GB, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Always-On Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back, Wi-Fi (802.11b/g/n 2.4GHz), Bluetooth 5.0, Built-in rechargeable lithium-ion battery, Up to 18 hours of battery life, Water resistant 50 meters, watchesOS 5"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71DnIj%2B%2BjUL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71avF5IunHL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "color": "Space Gray Aluminum",
+      "GPS": "yes",
+      "Swimproof": "yes",
+      "Case Size": "40mm, 44mm",
+      "Optical Heart Sensor": "Second-generation optical heart sensor"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Apple watches Series 5 (GPS + Cellular, 40mm)",
+    "category": "watches",
+    "price": 500,
+    "description": [
+      "LTE and UMTS, Built-in GPS, GLONASS, Galileo, and QZSS, S5 with 64-bit dual-core processor, W3 Apple wireless chip, Barometric altimeter, Capacity 32GB, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Always-On Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back, Wi-Fi (802.11b/g/n 2.4GHz), Bluetooth 5.0, Built-in rechargeable lithium-ion battery, Up to 18 hours of battery life, Water resistant 50 meters, watchesOS 5"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71Oe175rkzL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71-4b5PWVUL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "GPS + Cellular": "yes",
+      "Swimproof": "yes",
+      "Product Dimensions": "11.7 x 3 x 2.2 inches"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Apple watches Series 4 (GPS + Cellular, 40mm)",
+    "price": 550,
+    "category": "watches",
+    "description": [
+      "GLONASS, Galileo, and QZSS, Barometric altimeter, Optical heart sensor, Electrical heart sensor, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, LTPO OLED Retina display with Force Touch (1000 nits), Digital Crown with haptic feedback, Louder speaker, Ion-X strengthened glass, Sapphire crystal and ceramic back"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71uFVlVZoOL._AC_SL1024_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61SngVHMFcL._AC_SL1024_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "color": "Gold",
+      "Swim proof": "yes",
+      "Case Thickness": "10.7mm",
+      "Case Size": "40mm, 44mm"
+    }
+  },
+  {
+    "id": 51,
+    "title": "Apple watches Series 3 (GPS, 42mm)",
+    "price": 400,
+    "category": "watches",
+    "description": [
+      "GLONASS, Galileo, and QZSS, Barometric altimeter, Optical heart sensor, Accelerometer and gyroscope, Ion-X strengthened glass, Composite back"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71yrt3%2BnfkL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/712biAvwPqL._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Apple",
+      "color": "Gray",
+      "GPS": "yes",
+      "display": "Retina",
+      "Optical heart sensor": "yes",
+      "Swimproof": "yes"
+    }
+  },
+  {
+    "id": 52,
+    "title": "Fitbit Inspire HR Heart Rate and Fitness Tracker",
+    "price": 158,
+    "category": "watches",
+    "description": [
+      "Fitbit inspire hr. is a friendly heart rate and fitness tracker for every day that helps you build healthy habits. This encouraging companion motivates you to reach your weight and fitness goals and even enjoy the journey with 24/7 heart rate, workout features, calorie burn tracking, goal celebrations, sleep stages and up to 5 days of battery life. Large fits wrist 7.1 8.7 in circumference. Small fits wrist 5.5"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/715gNOFTN4L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/617W6mveH7L._AC_SL1500_.jpg"
+    ],
+    "features": {
+      "company": "Firbit",
+      "Heart Rate": "yes",
+      "swim proof": "yes",
+      "Bands size": "S, L",
+      "Touchscreen": "yes"
+    }
+  },
+  {
+    "id": 53,
+    "title": "Fossil Gen 5 Carlyle",
+    "category": "watches",
+    "price": 158,
+    "description": [
+      "Smartwatcheses powered with Wear OS by Google work with iPhone and Android Phones ; Circumference: 200+/ 5mm",
+      "Extend your battery life for multiple days with new, smart battery modes; magnetic USB rapid charger included; charge up to 80 percent in under an hour"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71XWG48C-NL._AC_UX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/714swthsEWL._AC_UX522_.jpg"
+    ],
+    "features": {
+      "company": "Fossil",
+      "color": "https://images-na.ssl-images-amazon.com/images/I/714swthsEWL._AC_UX522_.jpg",
+      "Heart Rate": "yes",
+      "GPS": "yes",
+      "NFC": "yes",
+      "Smartphone Notifications": "yes",
+      "Speaker": "yes",
+      "Touchscreen": "yes"
+    }
+  },
+  {
+    "id": 54,
+    "title": "Xiaomi Mi Band 4 Fitness Tracker",
+    "price": 32,
+    "category": "watches",
+    "description": [
+      "Bigger and color screen displays a comprehensive and obvious activity information; Simply lift your wrist to view directly the time and tap the button for operation or view notifications"
+    ],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51ADqWUs7mL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61a5Cpa0fXL._AC_SL1001_.jpg"
+    ],
+    "features": {
+      "company": "Xiaomi",
+      "display": "AMOLED",
+      "Wireless Type": "Bluetooth",
+      "Package Dimensions": "7.3 x 3.2 x 1.1 inches"
+    }
+  }
+]

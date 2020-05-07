@@ -1,0 +1,88 @@
+[
+  {
+    "id": 0,
+    "category": 0,
+    "category_name": "accessories",
+    "title": "White Solo 5 Wireless",
+    "sale": 129,
+    "price": 100,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/04/H4_1000x1000_vapour-999x999-300x360.png"
+  },
+  {
+    "id": 1,
+    "category": 0,
+    "category_name": "gadgets",
+    "title": "AA Smartphone XS",
+    "sale": 1100,
+    "price": 1059,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/iphone-xs-gols-1-599x599-300x360.png"
+  },
+  {
+    "id": 2,
+    "category": 0,
+    "category_name": "gadgets",
+    "title": "Smartwatch Golang",
+    "price": 220,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/watch-799x799-300x360.png"
+  },
+  {
+    "id": 3,
+    "category": 0,
+    "category_name": "accessories",
+    "title": "AA Headphones pods",
+    "sale": 149,
+    "price": 175,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/79983-airpods-angle-ipod-touch-tap-macbook_600x600-599x599-300x360.png"
+  },
+  {
+    "id": 4,
+    "category": 0,
+    "category_name": "accessories",
+    "title": "Headphones solo 3 novo",
+    "sale": 249,
+    "price": 300,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/01/0053_rgb_MP582-RGB-bttm_V22-1-1-799x549-300x360.png"
+  },
+  {
+    "id": 5,
+    "category": 0,
+    "category_name": "accessories",
+    "title": "White Solo 2 Wireless",
+    "sale": 129,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/04/H4_CharcoalGrey_1000x1000-999x999-300x360.png"
+  },
+  {
+    "id": 6,
+    "category": 0,
+    "category_name": "Tv’s & Audio",
+    "title": "AD QLed TV UltraHD Curved 55″",
+    "price": 2199,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/tv-799x799-300x360.png"
+  },
+  {
+    "id": 7,
+    "category": 0,
+    "category_name": "gadgets",
+    "title": "BA Tablet Pro",
+    "sale": 989,
+    "price": 999,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/Ipad-pro-gray-599x599-300x360.png"
+  },
+  {
+    "id": 8,
+    "category": 0,
+    "category_name": "gadgets",
+    "title": "Smartphone Note 7",
+    "price": 199,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/mi7-599x599-300x360.png"
+  },
+  {
+    "id": 9,
+    "category": 0,
+    "category_name": "gadgets",
+    "title": "Smartwatch 4.5w",
+    "sale": 249,
+    "price": 299,
+    "image": "https://elab.scdn8.secure.raxcdn.com/wp-content/uploads/sites/9/2019/05/watcfh-799x799-300x360.png"
+  }
+]
