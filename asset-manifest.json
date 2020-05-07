@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ts-marketplace/static/css/main.27224e12.chunk.css",
-    "main.js": "/ts-marketplace/static/js/main.7e4b98a2.chunk.js",
-    "main.js.map": "/ts-marketplace/static/js/main.7e4b98a2.chunk.js.map",
+    "main.js": "/ts-marketplace/static/js/main.6c387145.chunk.js",
+    "main.js.map": "/ts-marketplace/static/js/main.6c387145.chunk.js.map",
     "runtime-main.js": "/ts-marketplace/static/js/runtime-main.33fa5bd7.js",
     "runtime-main.js.map": "/ts-marketplace/static/js/runtime-main.33fa5bd7.js.map",
     "static/css/2.450e5d14.chunk.css": "/ts-marketplace/static/css/2.450e5d14.chunk.css",
     "static/js/2.32c79d9b.chunk.js": "/ts-marketplace/static/js/2.32c79d9b.chunk.js",
     "static/js/2.32c79d9b.chunk.js.map": "/ts-marketplace/static/js/2.32c79d9b.chunk.js.map",
     "index.html": "/ts-marketplace/index.html",
-    "precache-manifest.e7307be4ecf275f9708a2e6749b8e80a.js": "/ts-marketplace/precache-manifest.e7307be4ecf275f9708a2e6749b8e80a.js",
+    "precache-manifest.d1c139949d91fbd0481d755f8c8b63b0.js": "/ts-marketplace/precache-manifest.d1c139949d91fbd0481d755f8c8b63b0.js",
     "service-worker.js": "/ts-marketplace/service-worker.js",
     "static/css/2.450e5d14.chunk.css.map": "/ts-marketplace/static/css/2.450e5d14.chunk.css.map",
     "static/css/main.27224e12.chunk.css.map": "/ts-marketplace/static/css/main.27224e12.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.450e5d14.chunk.css",
     "static/js/2.32c79d9b.chunk.js",
     "static/css/main.27224e12.chunk.css",
-    "static/js/main.7e4b98a2.chunk.js"
+    "static/js/main.6c387145.chunk.js"
   ]
 }
